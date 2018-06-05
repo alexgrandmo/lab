@@ -1,0 +1,7 @@
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Александр\Desktop\универ\2курс\4 сем\Проектирование и тестирование ПО\Ready lab\lab5\lab5\lab5\obj\Debug\lab5.pdb
